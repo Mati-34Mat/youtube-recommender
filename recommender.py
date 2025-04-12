@@ -10,7 +10,7 @@ import isodate
 
 # Configuración de la API
 SCOPES = ['https://www.googleapis.com/auth/youtube.force-ssl']
-CLIENT_SECRETS_FILE = '/home/matias/Documentos/youtube-recommender/client_secret_332117634539-jalogv3ucr3d8j9rkidk5ivdvbvlcc1s.apps.googleusercontent.com.json'
+CLIENT_SECRETS_FILE = 'client_secret.json'  # Asumimos que está en la carpeta raíz'
 
 # Categorías
 CATEGORIES = {
