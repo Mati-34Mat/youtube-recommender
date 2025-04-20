@@ -40,3 +40,6 @@ cd youtube-recommender
 
 ## Autor
 Matías Berardo - Estudiante en el Instituto Politécnico Superior Gral. San Martín, apasionado por IA y ciencia
+
+## Licencia
+Este proyecto está licenciado bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
